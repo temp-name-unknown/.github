@@ -3,7 +3,7 @@
 ## Pull Requests
 
 ### Branches:
- - **naming convention**: <branch-prefix>/I-<project issue id>
+ - **naming convention**: \<branch-prefix\>\/I-\<project issue id\>
  - **branch types**:
     - *main*: main branch. Release deployment branch 
     - *develop*: integration branch used for development
